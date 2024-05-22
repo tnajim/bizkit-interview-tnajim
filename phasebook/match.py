@@ -20,8 +20,9 @@ def match(match_id):
 
 
 def is_match(fave_numbers_1, fave_numbers_2):
+    # Create a hash map of fave_numbers_1 to use to check against fave_numbers_2
+    num_map = {number: 1 for number in fave_numbers_1}
     for number in fave_numbers_2:
-        if number not in fave_numbers_1:
+        if number not in num_map:
             return False
-
     return True
