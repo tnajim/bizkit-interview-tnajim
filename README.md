@@ -1,4 +1,10 @@
 # BizKit Interview Task
+Please let me know if you have any feedback or suggestions on the code. It's my first time using Python so it might be messy. I learned alot during the task. Thank you.
+
+### Notes:
+- **Improved** the Matching Algorithm
+- **Implemented** a Search Algorithm
+- **Completed** the Bonus Challenge
 
 You did it! After a grueling interview process, you are now an official employee of Phasebook, Mark Zuckerberg's younger brother, Marc Zuckerberg's startup.
 
